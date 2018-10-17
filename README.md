@@ -3,7 +3,7 @@ connector-client
 
 Client library for users wanting to integrate their personal IoT project / device with the SEPL platform.
 
-Compatible with Python >= 3.5.3. For Python 3.4 please use legacy branch.
+Compatible with Python >= 3.5.3.
 
 ----------
 

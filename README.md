@@ -98,9 +98,9 @@ During runtime users can execute their own code and make use of the client API.
 
 Install the `sepl-connector-client` package via pip by using the following command in combination with a desired version `vX.X.X` from the available git tags: 
 
-`pip install git+ssh://git@github.com:SmartEnergyPlatform/client-connector-lib.git@vX.X.X` 
+`pip install git+https://github.com/SmartEnergyPlatform/client-connector-lib.git@vX.X.X` 
 
-Upgrade to new version: `pip install --upgrade git+ssh://git@github.com:SmartEnergyPlatform/client-connector-lib.git@vX.X.X`
+Upgrade to new version: `pip install --upgrade git+https://github.com/SmartEnergyPlatform/client-connector-lib.git@vX.X.X`
 
 Uninstall: `pip uninstall sepl-connector-client`
 
